@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository is archived. This fork is no longer maintained. See [tastejs/hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas) upstream, or [nuxt/hackernews](https://github.com/nuxt/hackernews) for the Nuxt implementation.
+
 <p align="center">
   <a href="https://hnpwa.com/">
     <img src='https://raw.githubusercontent.com/tastejs/hacker-news-pwas/b3f3d40b9e4bd385dbb973d238ce207aed1f60eb/media/logo.png' width='400px'/>
